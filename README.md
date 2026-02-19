@@ -1,3 +1,3 @@
 # Active Directory Domain Services (AD DS) Implementation & GPO Management
 I recently engineered a comprehensive Active Directory infrastructure project that transitions manual sysadmin tasks into a fully automated workflow. Using PowerShell, I built a system that constructs an enterprise-level domain from scratch—creating OUs, security groups, and onboarding users from departmental data files with built-in conflict resolution logic. The project demonstrates a "Security-First" approach, featuring RBAC-driven file permissions and GPO-enforced workstation compliance, effectively simulating a real-world enterprise environment. This lab highlights my expertise in automation, identity management, and troubleshooting complex directory service conflicts.
-![Uploading AD DS Setup.png…]()
+<img width="4158" height="2720" alt="AD DS Setup" src="https://github.com/user-attachments/assets/6e66ac3d-79f3-481e-ae04-b7b45eed62b2" />
